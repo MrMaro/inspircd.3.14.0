@@ -1,0 +1,45 @@
+ __        __   _                          
+ \ \      / /__| | ___ ___  _ __ ___   ___ 
+  \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \
+   \ V  V /  __/ | (__ (_) | | | | | |  __/
+    \_/\_/ \___|_|\___\___/|_| |_| |_|\___|
+                                           
+
+  _  __                                        ____ _           _     ____  _         __  __ 
+ | |/ /__ _ _ __ ___  _ __  _   _ _ __   __ _ / ___| |__   __ _| |_  / ___|| |_ __ _ / _|/ _|
+ | ' // _` | '_ ` _ \| '_ \| | | | '_ \ / _` | |   | '_ \ / _` | __| \___ \| __/ _` | |_| |_ 
+ | . \ (_| | | | | | | |_) | |_| | | | | (_| | |___| | | | (_| | |_   ___) | |_ (_| |  _|  _|
+ |_|\_\__,_|_| |_| |_| .__/ \__,_|_| |_|\__, |\____|_| |_|\__,_|\__| |____/ \__\__,_|_| |_|  
+                     |_|                |___/                                                
+
+
+
+Tanggungjawab staff:
+
+i.   Sentiasa peka dengan keadaan server, memantau semula persiapan teknikal server dengan rapi serta upgrade server mengikut masa ke semasa.
+
+ii.  Sentiasa membaca polisi dan prosedur serta mengikutinya ketika menjalankan tugas.
+
+iii. Sedia memberikan pandangan kepada Admin lain dan CEO serta EM pada setiap masa.
+
+iv.  Menjalankan tugas dengan penuh dedikasi dan berhemah dan sedia membantu.
+
+v.   Bertanggungjawab memantau perkembangan semua IRC Operator.
+
+vi.  Menjalankan tugas dengan telus dan saksama.
+
+vii. Laporkan sebarang masalah dengan segara kepada semua staff.
+
+viii.Boleh mencadangkan user yang layak menjadi helper dan staff kepada EM.
+
+Staff tidak seharusnya:
+
+i.   Mengubah server atau IRCd tanpa mendapat kebenaran daripada CEO dan EM.
+
+ii.  Linkkan server lain yang tidak diterima secara rasmi ke dalam KampungChat.
+
+iii. Bertindak untuk kill/gline/shun/suspend/forbid user tanpa sebarang alasan yang kukuh.
+
+iv.  Tidak membantu user tanpa alasan yang kukuh.
+
+v.   Tidak hadir ke mesyuarat tanpa sebarang notice
